@@ -54,7 +54,7 @@ To build scalable, secure, and high-performance web applications while continuou
 ### 🎨 Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,bootstrap" />
+<img src="https://skillicons.dev/icons?i=react" />
 </p>
 
 ### 🗄️ Database
