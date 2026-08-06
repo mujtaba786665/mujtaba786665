@@ -32,40 +32,47 @@ To build scalable, secure, and high-performance web applications while continuou
 
 # 🛠 Tech Stack
 
-### Programming Languages
+### 💻 Programming Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=java,js,html,css"/>
+<img src="https://skillicons.dev/icons?i=java,js" />
+<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
 </p>
 
-### Backend
+### 🌐 Web Technologies
 
 <p>
-<img src="https://skillicons.dev/icons?i=spring,maven"/>
+<img src="https://skillicons.dev/icons?i=html,css" />
 </p>
 
-### Frontend
+### ⚙️ Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,bootstrap"/>
+<img src="https://skillicons.dev/icons?i=spring,maven" />
 </p>
 
-### Database
+### 🎨 Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=mysql"/>
+<img src="https://skillicons.dev/icons?i=react,bootstrap" />
 </p>
 
-### Cloud & DevOps
+### 🗄️ Database
 
 <p>
-<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,git,github"/>
+<img src="https://skillicons.dev/icons?i=mysql" />
 </p>
 
-### IDE & Tools
+### ☁️ Cloud & DevOps
 
 <p>
-<img src="https://skillicons.dev/icons?i=vscode,eclipse,postman"/>
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,git,github" />
+</p>
+
+### 🛠️ Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=vscode,eclipse,postman" />
 </p>
 
 ---
@@ -134,7 +141,6 @@ To build scalable, secure, and high-performance web applications while continuou
 - Kubernetes
 - AWS
 - Microservices
-- System Design
 
 ---
 
